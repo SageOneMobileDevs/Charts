@@ -1,4 +1,5 @@
 {
   "2.3.1":"https://github.com/SageOneMobileDevs/Charts/releases/download/v2.3.1/Charts.framework.zip",
-  "3.0.1":"https://github.com/SageOneMobileDevs/Charts/releases/download/v3.0.1/Charts.framework.zip"
+  "3.0.1":"https://github.com/SageOneMobileDevs/Charts/releases/download/v3.0.1/Charts.framework.zip",
+  "3.0.1-carthage0.24.0":"https://github.com/SageOneMobileDevs/Charts/releases/download/v3.0.1-carthage0.24.0/Charts.framework.zip",
 }
